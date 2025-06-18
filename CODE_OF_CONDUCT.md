@@ -1,43 +1,55 @@
-🤝 Contribuindo com os Projetos
+# 🔐 `CODE_OF_CONDUCT.md`
 
-Agradecemos por sua intenção de contribuir com a comunidade Chaos Version. Todos os nossos projetos são open source, e o sucesso deles depende da colaboração voluntária e do espírito de compartilhamento.
+> Este código de conduta se aplica a todos os espaços da comunidade Chaos Version, incluindo repositórios no GitHub, canais no Discord e eventos online ou presenciais.
 
-Contribuições podem incluir:
+---
 
-Correção de bugs
-Implementação de novas funcionalidades
-Melhorias na documentação
-Testes automatizados
-Atualização de dependências
-Traduções
-Feedback detalhado
- 🛠 Como Contribuir
+## 🧭 Nossa Promessa
 
-Fork o repositório.
-Crie uma nova branch (git checkout -b feature/minha-feature).
-Faça suas alterações e teste-as localmente .
-Adicione commits claros e descritivos usando Conventional Commits .
-Envie suas alterações (git push origin feature/minha-feature).
-Abra um Pull Request (PR) com uma descrição clara do que foi feito e por quê.
- ✅ Diretrizes Gerais
+Nós nos comprometemos a garantir um ambiente acolhedor, inclusivo e respeitoso para todos os participantes, independentemente de origem, gênero, orientação sexual, religião, etnia, deficiência ou qualquer outra característica pessoal.
 
-Mantenha o código limpo e organizado seguindo nosso guia de boas práticas.
-Documente suas mudanças no README ou em arquivos específicos.
-Inclua testes sempre que possível.
-Revise seu PR antes de enviar.
-Respeite feedbacks e sugestões dos mantenedores.
-Não envie alterações não relacionadas ao escopo do PR.
- 🧪 Testes
+---
 
-Antes de enviar seu PR:
+## 🙋‍♂️ Esperamos que você:
 
-Execute os testes existentes (npm test, pytest, etc.)
-Adicione novos testes se necessário
-Garanta cobertura adequada
- 🧑‍💻 Comunicação
+- **Trate as pessoas com respeito e gentileza**
+- **Ouça ativamente e valorize diferentes perspectivas**
+- **Seja claro, objetivo e empático nas conversas**
+- **Colabore de forma positiva e construtiva**
+- **Reconheça erros e esteja disposto a aprender**
 
-Se tiver dúvidas, participe do nosso servidor no Discord. Sempre terá alguém disposto a ajudar!
+---
 
-🙌 Agradecimento
+## ❌ Não toleramos:
 
-Sua contribuição é valiosa para nós e para toda a comunidade. Obrigado por ajudar a construir o futuro da IA aplicada na América Latina!
+- Comentários ou ações discriminatórias (raça, gênero, religião, etc.)
+- Assédio ou linguagem ofensiva
+- Desrespeito à opinião alheia
+- Publicação de informações pessoais sem consentimento
+- Interações agressivas ou passivas-agressivas
+
+---
+
+## 🛡 Se você vir algo inadequado:
+
+- Chame a atenção da pessoa com educação
+- Caso persista, entre em contato com os moderadores ou mantenedores
+- Em situações graves, podemos tomar medidas como remover conteúdo ou bloquear usuários
+
+---
+
+## 📢 Aplicação
+
+Este código de conduta se aplica a todos os espaços geridos pela Chaos Version, inclusive em plataformas de terceiros (como GitHub, Discord, LinkedIn, etc.). Os mantenedores têm autonomia para tomar decisões sobre infrações.
+
+---
+
+## 📬 Contato
+
+Para relatar violações ou tirar dúvidas sobre o código de conduta, entre em contato conosco pelo Discord ou por e-mail: [seu-email@exemplo.com]
+
+---
+
+## 📜 Licença
+
+Este Código de Conduta é baseado no [Contributor Covenant](https://www.contributor-covenant.org/) e está licenciado sob a licença MIT.
